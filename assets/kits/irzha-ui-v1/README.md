@@ -21,6 +21,9 @@
 - **Ведмідь VIP1** — VIP1 / ВЕДМІДЬ: [vip1-bear-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/vip1-bear-template-v1.jpg), 57645 байтів.
 - **Ведмідь VIP2** — VIP2 / ВЕДМІДЬ: [vip2-bear-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/vip2-bear-template-v1.jpg), 57603 байтів.
 - **Ведмідь VIP3** — VIP3 / ВЕДМІДЬ: [vip3-bear-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/vip3-bear-template-v1.jpg), 61874 байтів.
+- **VIP1BUILD** — VIP1 / БУДІВНИЦТВО: [vip1-build-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/vip1-build-template-v1.jpg), 64696 байтів.
+- **VIP2BUILD** — VIP2 / БУДІВНИЦТВО: [vip2-build-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/vip2-build-template-v1.jpg), 68603 байтів.
+- **VIP3BUILD** — VIP3 / БУДІВНИЦТВО: [vip3-build-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/vip3-build-template-v1.jpg), 68779 байтів.
 
 VIP1 — бронза, VIP2 — срібло, VIP3 — золото. Кількість намальованих купок ресурсів позначає рівень оформлення, а не кількість одиниць у видачі.
 
