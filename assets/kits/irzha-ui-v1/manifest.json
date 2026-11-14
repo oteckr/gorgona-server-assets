@@ -1,23 +1,43 @@
 {
   "schemaVersion": 1,
   "project": "ЇРЖА",
-  "target": "Rust Kits 4.4.11 / ImageLibrary",
+  "target": "Rust Kits / ImageLibrary",
   "entries": [
     {
       "kitName": "StartPVP",
       "imageLibraryKey": "StartPVP",
       "imageLibraryId": 0,
-      "file": "start-pvp-v1.jpg",
-      "path": "assets/kits/irzha-ui-v1/start-pvp-v1.jpg",
-      "url": "https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/start-pvp-v1.jpg",
+      "file": "start-pvp-v3.jpg",
+      "path": "assets/kits/irzha-ui-v1/start-pvp-v3.jpg",
+      "url": "https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/start-pvp-v3.jpg",
       "width": 512,
       "height": 512,
       "format": "JPEG",
       "colorMode": "RGB",
       "progressive": false,
-      "bytes": 54466,
-      "sha256": "6db5e90bd9acd863addb1cad0d5ecef545631c64f4b0217eee9fa31ca953e9a4",
-      "approvedOn": "2026-11-14"
+      "bytes": 50656,
+      "sha256": "107abba5be2f933c37a6aa3316e87a69f607403cb6ddf2fbf4561d5346c73a90",
+      "approvedOn": "2026-11-14",
+      "title": "СТАРТ / PVP",
+      "gameTested": false
+    },
+    {
+      "kitName": "StartBuild",
+      "imageLibraryKey": "StartBuild",
+      "imageLibraryId": 0,
+      "file": "start-build-v3.jpg",
+      "path": "assets/kits/irzha-ui-v1/start-build-v3.jpg",
+      "url": "https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/start-build-v3.jpg",
+      "width": 512,
+      "height": 512,
+      "format": "JPEG",
+      "colorMode": "RGB",
+      "progressive": false,
+      "bytes": 50692,
+      "sha256": "ac0fde93c11d9a0ddba9e43cb29bfc3ec113afee082b6a2770dd210f80171604",
+      "approvedOn": "2026-11-14",
+      "title": "СТАРТ / БУДІВНИЦТВО",
+      "gameTested": false
     }
   ],
   "uiAssets": [
