@@ -14,6 +14,9 @@
 - **VIP3PVP** — VIP3 / PVP: [vip3-pvp-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/vip3-pvp-template-v1.jpg), 55273 байтів.
 - **RedGenSet GGGYYY** — ЯГОДИ / GGGYYY: [berries-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/berries-template-v1.jpg), 79024 байтів.
 - **Садівник** — САДІВНИК: [gardener-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/gardener-template-v1.jpg), 65107 байтів.
+- **VIP1TOOL** — VIP1 / ІНСТРУМЕНТИ: [vip1-tool-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/vip1-tool-template-v1.jpg), 57875 байтів.
+- **VIP2TOOL** — VIP2 / ІНСТРУМЕНТИ: [vip2-tool-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/vip2-tool-template-v1.jpg), 57028 байтів.
+- **VIP3TOOL** — VIP3 / ІНСТРУМЕНТИ: [vip3-tool-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/vip3-tool-template-v1.jpg), 61796 байтів.
 
 VIP1 — бронза, VIP2 — срібло, VIP3 — золото. Кількість намальованих купок ресурсів позначає рівень оформлення, а не кількість одиниць у видачі.
 

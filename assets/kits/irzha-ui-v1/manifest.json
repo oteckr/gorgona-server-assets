@@ -210,6 +210,82 @@
       "title": "САДІВНИК",
       "gameTested": false,
       "templateVersion": 1
+    },
+    {
+      "kitName": "VIP1TOOL",
+      "imageLibraryKey": "VIP1TOOL",
+      "imageLibraryId": 0,
+      "file": "vip1-tool-template-v1.jpg",
+      "path": "assets/kits/irzha-ui-v1/vip1-tool-template-v1.jpg",
+      "url": "https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/vip1-tool-template-v1.jpg",
+      "width": 512,
+      "height": 512,
+      "format": "JPEG",
+      "colorMode": "RGB",
+      "progressive": false,
+      "bytes": 57875,
+      "sha256": "ff4594f622cf25ba8044126b5bb09866a1579da6d2426ef53a0735606eacbc7d",
+      "approvedOn": "2026-11-14",
+      "title": "VIP1 / ІНСТРУМЕНТИ",
+      "gameTested": false,
+      "templateVersion": 1,
+      "toolItems": [
+        "lumberjack.hatchet",
+        "lumberjack.pickaxe",
+        "mace",
+        "knife.bone"
+      ]
+    },
+    {
+      "kitName": "VIP2TOOL",
+      "imageLibraryKey": "VIP2TOOL",
+      "imageLibraryId": 0,
+      "file": "vip2-tool-template-v1.jpg",
+      "path": "assets/kits/irzha-ui-v1/vip2-tool-template-v1.jpg",
+      "url": "https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/vip2-tool-template-v1.jpg",
+      "width": 512,
+      "height": 512,
+      "format": "JPEG",
+      "colorMode": "RGB",
+      "progressive": false,
+      "bytes": 57028,
+      "sha256": "85d76cb609adbeadfa095ed4a22003eef18f589d9270086d8517f89662eeff1b",
+      "approvedOn": "2026-11-14",
+      "title": "VIP2 / ІНСТРУМЕНТИ",
+      "gameTested": false,
+      "templateVersion": 1,
+      "toolItems": [
+        "axe.salvaged",
+        "icepick.salvaged",
+        "mace",
+        "knife.combat"
+      ]
+    },
+    {
+      "kitName": "VIP3TOOL",
+      "imageLibraryKey": "VIP3TOOL",
+      "imageLibraryId": 0,
+      "file": "vip3-tool-template-v1.jpg",
+      "path": "assets/kits/irzha-ui-v1/vip3-tool-template-v1.jpg",
+      "url": "https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/vip3-tool-template-v1.jpg",
+      "width": 512,
+      "height": 512,
+      "format": "JPEG",
+      "colorMode": "RGB",
+      "progressive": false,
+      "bytes": 61796,
+      "sha256": "25ce1074e5ae9f7e22956221125ca83d228371e30556ec90601dedaff17506eb",
+      "approvedOn": "2026-11-14",
+      "title": "VIP3 / ІНСТРУМЕНТИ",
+      "gameTested": false,
+      "templateVersion": 1,
+      "toolItems": [
+        "chainsaw",
+        "jackhammer",
+        "icepick.salvaged",
+        "knife.combat",
+        "lowgradefuel"
+      ]
     }
   ],
   "uiAssets": [
