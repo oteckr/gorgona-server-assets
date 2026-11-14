@@ -19,5 +19,40 @@
       "sha256": "6db5e90bd9acd863addb1cad0d5ecef545631c64f4b0217eee9fa31ca953e9a4",
       "approvedOn": "2026-11-14"
     }
+  ],
+  "uiAssets": [
+    {
+      "file": "irzha-logo-v1.png",
+      "imageLibraryKey": "kits.irzha.logo",
+      "imageLibraryId": 0,
+      "width": 436,
+      "height": 148,
+      "bytes": 24582,
+      "sha256": "ebd9b63a8f40da2a0a20e2023b7beead392f7e07e90ecabdb3a2009721b614cd",
+      "path": "assets/kits/irzha-ui-v1/irzha-logo-v1.png",
+      "url": "https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/irzha-logo-v1.png"
+    },
+    {
+      "file": "default-kit-v1.png",
+      "imageLibraryKey": "kits.defaultkiticon",
+      "imageLibraryId": 0,
+      "width": 512,
+      "height": 512,
+      "bytes": 41375,
+      "sha256": "a383c9ed5f9a91da938d1c18eb52aec00e66e2f35d9347d7ca510ef0d592c6c2",
+      "path": "assets/kits/irzha-ui-v1/default-kit-v1.png",
+      "url": "https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/default-kit-v1.png"
+    },
+    {
+      "file": "view-kit-v1.png",
+      "imageLibraryKey": "kits.magnifyicon",
+      "imageLibraryId": 0,
+      "width": 128,
+      "height": 128,
+      "bytes": 6062,
+      "sha256": "70186cfd25f36bf635bdb077408ec08b7ccbe2dc3f4b561378a88b3e851d2b13",
+      "path": "assets/kits/irzha-ui-v1/view-kit-v1.png",
+      "url": "https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/view-kit-v1.png"
+    }
   ]
 }
