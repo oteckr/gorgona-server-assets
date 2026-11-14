@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "project": "ЇРЖА",
+  "target": "Rust Kits 4.4.11 / ImageLibrary",
+  "entries": [
+    {
+      "kitName": "StartPVP",
+      "imageLibraryKey": "StartPVP",
+      "imageLibraryId": 0,
+      "file": "start-pvp-v1.jpg",
+      "path": "assets/kits/irzha-ui-v1/start-pvp-v1.jpg",
+      "url": "https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/start-pvp-v1.jpg",
+      "width": 512,
+      "height": 512,
+      "format": "JPEG",
+      "colorMode": "RGB",
+      "progressive": false,
+      "bytes": 54466,
+      "sha256": "6db5e90bd9acd863addb1cad0d5ecef545631c64f4b0217eee9fa31ca953e9a4",
+      "approvedOn": "2026-11-14"
+    }
+  ]
+}
