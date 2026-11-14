@@ -1,20 +1,20 @@
 # ЇРЖА — зображення Kits
 
-Оптимізовані зображення для ImageLibrary. Назви наборів у плагіні зберігаються.
-Картки: 512×512, RGB baseline JPEG. Файли версіоновані, щоб оновлення не залежали від старого кешу.
+Картки одного фіксованого шаблону: спільний фон, однакове поле, логотип, шрифт і відступи. RGB baseline JPEG, 512×512.
 
 ## Затверджені картки
 
-- **StartPVP** — СТАРТ / PVP: [start-pvp-v3.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/start-pvp-v3.jpg), 50656 байтів.
-- **StartBuild** — СТАРТ / БУДІВНИЦТВО: [start-build-v3.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/start-build-v3.jpg), 50692 байтів.
+- **StartPVP** — СТАРТ / PVP: [start-pvp-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/start-pvp-template-v1.jpg), 59620 байтів.
+- **StartBuild** — СТАРТ / БУДІВНИЦТВО: [start-build-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/start-build-template-v1.jpg), 68336 байтів.
+- **VIP1PVP** — VIP1 / PVP: [vip1-pvp-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/vip1-pvp-template-v1.jpg), 54269 байтів.
+- **VIP1RES** — VIP1 / РЕСУРСИ: [vip1-res-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/vip1-res-template-v1.jpg), 54786 байтів.
+- **VIP2RES** — VIP2 / РЕСУРСИ: [vip2-res-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/vip2-res-template-v1.jpg), 58361 байтів.
+- **VIP3RES** — VIP3 / РЕСУРСИ: [vip3-res-template-v1.jpg](https://raw.githubusercontent.com/oteckr/gorgona-server-assets/main/assets/kits/irzha-ui-v1/vip3-res-template-v1.jpg), 62498 байтів.
 
-Фірмовий логотип ЇРЖА використовується на обох картках. Фон і освітлення витримані в одному стилі Rust.
-Для наступних VIP-карток: VIP1 — бронзова окантовка, VIP2 — срібна, VIP3 — золота.
+VIP1 — бронза, VIP2 — срібло, VIP3 — золото. Кількість намальованих купок ресурсів позначає рівень оформлення, а не кількість одиниць у видачі.
 
-## Спільні елементи інтерфейсу
+Для VIP3RES зображено 3 купки МВК і по 4 деревини, каменю та металу. МВК — прямокутні сталеві злитки.
 
-- irzha-logo-v1.png — логотип заголовка.
-- default-kit-v1.png — фірмова резервна іконка.
-- view-kit-v1.png — значок перегляду.
+Попередні версії файлів збережені. Актуальні файли наведені в manifest.json. У серверному пакеті використовуються URL, закріплені за комітом. На живому сервері відображення ще не перевірялось.
 
-Відомості про розміри й SHA-256 містяться в manifest.json. У серверному пакеті використовуються URL, закріплені за комітом. Відображення в живій грі ще не перевірялось.
+Загальні зображення інтерфейсу: irzha-logo-v1.png, default-kit-v1.png, view-kit-v1.png.
